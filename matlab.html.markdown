@@ -3,6 +3,7 @@ language: Matlab
 contributors:
     - ["mendozao", "http://github.com/mendozao"]
     - ["jamesscottbrown", "http://jamesscottbrown.com"]
+    - ["masdeseiscaracteres", "http://github.com/masdeseiscaracteres"]
 
 ---
 
